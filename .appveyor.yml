@@ -1,6 +1,6 @@
 image:
-  - macOS
   - 'Visual Studio 2019'
+  - macOS
 
 branches:
   only:
